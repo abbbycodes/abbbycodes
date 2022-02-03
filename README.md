@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abbbycodes
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning Python
-- 📫 I'm abby__codes over on Twitter
+- 👀 I’m interested in data science, machine learning, and data visualisation
+- 🌱 I’m studying for a degree in Data Science with the OU
+- 📫 I'm abby_codes over on Insta
 
 <!---
 abbbycodes/abbbycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
